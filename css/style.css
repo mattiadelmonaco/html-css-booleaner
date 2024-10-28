@@ -59,3 +59,19 @@ img {
 .tdshotssecond {
     font-size: 12px;
 }
+
+.captions-images {
+    font-size: 22px;
+    font-weight: bolder;
+    width: 300px;
+    height: 200px;
+    color: #ffffff;
+}
+
+#monitor {
+    background-image: url(../img/monitor.jpg);
+}
+
+#graph {
+    background-image: url(../img/graph.jpg);
+}
