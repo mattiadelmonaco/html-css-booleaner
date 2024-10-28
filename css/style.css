@@ -40,3 +40,22 @@ img {
 .lorem-ipsum-question {
     font-size: 12px;
 }
+
+.thead {
+    background-color: #20A9E5;
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.cell-bigger {
+    width: 60%;
+}
+
+.tdshots {
+    background-color: #B1E5F2;
+    font-size: 12px;
+}
+
+.tdshotssecond {
+    font-size: 12px;
+}
